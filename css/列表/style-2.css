@@ -1,0 +1,35 @@
+*{
+	padding:0px;
+	margin:0px;
+}
+body{
+	font-size: 12px;
+	font-family: "宋体";
+}
+table{
+	border-collapse: collapse;
+	width:600px;
+	text-align: center;
+	margin:10px auto;
+	background-color: yellow;
+	border:1px solid #f0f0f0;
+}
+tr{
+	height:20px;
+	line-height:20px;
+	width:180px;
+}
+td{
+	border:2px solid #fff;
+	width:180px;
+}
+img{
+	width:180px;
+	margin-bottom:0px;
+}
+.rr{
+	background-color: #f0f0f0;
+}
+/*.rr td{
+	width:360px;
+}*/

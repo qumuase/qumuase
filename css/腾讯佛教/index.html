@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="zh">
+<head>
+	<meta charset="UTF-8">
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+	<script type="text/javascript">
+	// function moveon(){
+	// 	var answer = confirm("准备好了吗?");
+	// 	if (answer) window.location = "http://taobao.com";
+	// }
+	// setTimeout(moveon,60000);
+
+
+	// var s = "test";
+	// s.len=4;
+	// var t = s.len;
+
+// 	var name = "The Window";
+// var object = {
+// 　　name : "My Object",
+// 　　getNameFunc : function(){<p></p>
+// 　　　　var that = this;
+// 　　　　return function(){
+// 　　　　　　return that.name;
+// 　　　　};
+// 　　}
+// };
+
+// alert(object.getNameFunc()());
+
+var name = "The Window";
+var object = {
+　　name : "My Object",
+　　getNameFunc : function(){
+　　　　return function(){
+　　　　　　return this.name;
+　　　　};
+　　}
+};
+
+alert(object.getNameFunc()());
+
+
+	</script>
+</body>
+</html>
