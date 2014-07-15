@@ -107,6 +107,9 @@ a:hover{
 	width:272px;
 	border:1px solid #cfcfcf;
 }
+.head-search-form{
+	width:338px;
+}
 .head .search-icon{
 	float:left;
 	width:24px;
@@ -538,6 +541,7 @@ a:hover{
 	line-height: 115px;
 	padding-left: 30px;
 	height:115px;
+	width:810px;
 	float:left;
 }
 .footer-siteinfo-left img{
