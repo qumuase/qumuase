@@ -61,7 +61,7 @@ a:hover{
 	float:left;
 	height:46px;
 	line-height: 46px;
-	margin:0px 18px;
+	padding:0px 18px;
 }
 .topbar-left-hover{
 	padding:0px 10px;
@@ -244,4 +244,14 @@ a:hover{
 }
 .footer-left img{
 	height:82px;
+}
+.topbar-left p,
+.topbar-right img,
+.top-photo-2 span,
+.content-main-tag p,
+.footer-right-top span:hover{
+	cursor: pointer;
+}
+.topbar-left p:hover{
+	background-color: #dd4012;
 }
