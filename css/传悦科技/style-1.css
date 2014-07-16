@@ -53,7 +53,7 @@ a:hover{
 }
 .topbar-left{
 	float:left;
-	width:460px;
+	width:520px;
 	height:46px;
 	margin-left: 20px;
 }
@@ -61,7 +61,7 @@ a:hover{
 	float:left;
 	height:46px;
 	line-height: 46px;
-	padding:0px 18px;
+	padding:0px 16px;
 }
 .topbar-left-hover{
 	padding:0px 10px;
