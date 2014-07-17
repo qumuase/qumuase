@@ -62,6 +62,11 @@ a:hover{
 	line-height: 46px;
 	padding:0px 16px;
 }
+.topbar-left p:hover{
+	background-color: #f00;
+	cursor: pointer;
+	color:#fff;
+}
 .topbar-right{
 	float:right;
 	height:46px;
@@ -77,7 +82,6 @@ a:hover{
 	margin: 0px 6px;
 	vertical-align: middle;
 }
-
 .topbar-right p{
 	float:left;
 	height:46px;
@@ -106,18 +110,19 @@ a:hover{
 	margin-top: 110px;
 }
 .content-main,.content-main-a{
-	height: 307px;
+	height: 306px;
 }
 .content-main-left{
 	float:left;
-	width:370px;
+	width:651px;
+	height:306px;
 }
 .content-main-left p{
 	padding: 6px 0px;
 	width:380px;
 	color:#666;
 }
-.content-main-left-top{
+.content-main-left > .content-main-left-top{
 	font-size: 24px;
 	color:#000334;
 	font-weight:bolder;
@@ -125,18 +130,115 @@ a:hover{
 }
 .content-main-right{
 	float:right;
-	width:450px;
+	width:449px;
+	height:306px;
 }
 .content-main-a-left{
 	float:left;
-	width:450px;
+	width:651px;
+	height:306px;
 }
 .content-main-a-right{
 	float:right;
-	width:380px;
+	width:449px;
+	height:306px;
 }
 .content-main-a-right p{
 	padding: 6px 0px;
 	width:380px;
 	color:#666;
+}
+.content-main-a-right > .content-main-left-top{
+	font-size: 24px;
+	color:#000334;
+	font-weight:bolder;
+	padding:20px 0px;
+}
+.content-hr{
+	height:1px;
+	width:1100px;
+	border:0px;
+	background-color:#e6e6e6;
+}
+.main-nav-1{
+	height:290px;
+	border-top:1px solid #e6e6e6;
+}
+.main-nav-2{
+	margin-top: 45px;
+}
+.main-nav-1-menu{
+	float:left;
+	width:290px;
+	height:290px;
+}
+.main-nav-1-menu p{
+	color:#f00;
+	font-size: 18px;
+	padding-left: 20px;
+	padding-top:35px;
+	font-weight: bolder;
+}
+.main-nav-1-message{
+	float:left;
+	width:570px;
+	height:290px;
+}
+.main-nav-1-message p{
+	padding:8px 0px;
+	color:#575757;
+}
+.main-nav-1-mail{
+	float:right;
+	background-color: #f00;
+	padding:4px 8px;
+	color:#fff;
+}
+.main-nav-1-mail a{
+	color:#fff;
+}
+.main-nav-1-mail a:hover{
+	color:#000;
+}
+.main-nav-2-mail{
+	float:right;
+}
+.footer{
+	height:82px;
+	width:100%;
+	background-color: #323232;
+}
+.footer-left{
+	float:left;
+}
+.footer-right{
+	height:82px;
+	float:right;
+}
+.footer-right-top{
+	float:right;
+	line-height: 51px;
+	width:620px;
+	height:41px;
+}
+.footer-right-top span{
+	padding-left:8px;
+	color:#a6a6a6;
+	float:right;
+}
+.footer-right-bottom{
+	width:620px;
+	line-height: 31px;
+	height:41px;
+}
+.footer-right-bottom p{
+	width:506px;
+	float:right;
+}
+.footer-left img{
+	height:82px;
+}
+.footer-right-top span,
+.main-nav-2-mail:hover{
+	cursor: pointer;
 }
