@@ -456,8 +456,133 @@ a:hover{
 .main-p-ll img{
 	width:218px;
 }
+
 .photo-ll{
 	position: relative;
 	top: -160px;
-	left: 40px;
+	left: 80px;
+}
+.photo-ll p{
+	width:150px;
+	text-align: center;
+}
+.main-p-r{
+	float:left;
+	width:732px;
+	height:550px;
+}
+.main-pp-r{
+	float:left;
+	margin-right: 6px;
+	width:240px;
+	height:550px;
+}
+.main-pp-r img{
+	width:240px;
+	height:540px;
+}
+.main-p-t{
+	position: relative;
+	top:-130px;
+	left:60px;
+}
+.main-pp-rr{
+	margin:0px;
+}
+.main-bar-2{
+	background:url(img/p-4-3.jpg) repeat-x;
+}
+.main-b-b{
+	height:514px;
+	width:950px;
+	margin-bottom: 10px;
+}
+.main-b-b img{
+	float:left;
+	width:332px;
+	height:514px;
+}
+.main-content-shadow-1{
+	float:left;
+	background: url(img/p-4-6.jpg) 0px 0px no-repeat;
+	width:206px;
+	height:257px;
+}
+.main-content-shadow-2{
+	height:32px;
+	filter:alpha(Opacity=80);
+	-khtml-opacity: 0.5;
+	-moz-opacity:0.6;
+	opacity: 0.6;
+	margin-top: 225px;
+	background-color:#f00;
+}
+.main-content-shadow-2 span{
+	color:#fff;
+	font-size: 13px;
+	margin:0px auto;
+	line-height: 32px;
+}
+.footer{
+	height:71px;
+	background-color: #8c6b35;
+}
+.footer-j{
+	float:left;
+	height:71px;
+}
+.footer-l{
+	text-align: right;
+	float: left;
+	width:600px;
+	height:44px;
+	margin-top: 14px;
+}
+.footer-ll{
+	color:#fff;
+	padding-right: 10px;
+	font-size: 22px;
+	height: 26px;
+	line-height: 26px;
+	font-weight: bolder;
+}
+.footer-ll a{
+	color:#fff;
+}
+.footer-rr{
+	height:35px;
+	line-height: 35px;
+	color:#fff;
+}
+.footer > .footer-r{
+	width:100px;
+	float:left;
+	text-align: center;
+	padding-bottom:6px;
+	border-right:1px dashed #fff;
+}
+.footer-lll{
+	line-height: 26px;
+	padding: 0px;
+}
+.footer-p{
+	float:right;
+	width:80px;
+	margin-top: 10px;
+}
+.footer-p-1{
+	width: 1px;
+    height: 10px;
+    /*margin-top: 6px;*/
+    border-left: 6px solid transparent;
+    border-right: 6px solid transparent;
+    border-bottom: 10px solid #fff;
+}
+.footer-llll{
+	text-align: left;
+	margin-left: -22px;
+	font-size: 26px;
+}
+.footer-p :hover{
+	cursor: pointer;
 }
