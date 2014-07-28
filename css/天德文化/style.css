@@ -1,0 +1,64 @@
+/*reset*/
+*{
+	padding:0px;
+	margin:0px;
+}
+body{
+	font:13px/1.5 Verdana,"Microsoft YaHei","微软雅黑",tahoma,arial,simsun,"宋体";
+	background-color: #f9f9e7;
+}
+ul,li{
+	list-style: none;
+}
+a{
+	color:#f00;
+	text-decoration: none;
+}
+p{
+	color:#666;
+}
+a:hover{
+	color:#f00;
+	text-decoration: underline;
+}
+/*bese*/
+.w1000{
+	width:1000px;
+	margin:0px auto;
+	text-align: center;
+}
+/*common*/
+.top{
+	height:50px;
+	margin:25px 0px;
+}
+.top-logo{
+	float: left;
+	width:260px;
+	height:50px;
+}
+.top-logo img{
+	width:134px;
+	float: left;
+}
+.top-logo-p{
+	float: left;
+	font-weight: bolder;
+	font-size: 30px;
+	line-height: 40px;
+	color:#000;
+}
+.top-right{
+	float: right;
+	width:180px;
+}
+.top-right-p{
+	text-align: right;
+	height:20px;
+}
+.top-right-input{
+	height:20px;
+}
+.top-right-input input{
+	
+}
