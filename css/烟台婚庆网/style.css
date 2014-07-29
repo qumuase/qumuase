@@ -406,3 +406,9 @@ a:hover{
 .content-c-bottom ul li  p a{
 	color:#666;
 }
+.top-logo img,
+.top-right-bottom button,
+.top-right-bottom img,
+.top-right-bottom .top-right-bottom-b:hover{
+	cursor: pointer;
+}
