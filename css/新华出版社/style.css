@@ -95,8 +95,10 @@ a:hover{
 .top-sidebar-right input{
 	height:20px;
 	width:75px;
+	outline: medium;
 	border:none;
-	background-color: #888;
+	/*background-color: #888;*/
+	background: url(img/p-9-7.png) repeat-x;
 	margin:4px 10px 0px 10px;
 	box-shadow: 1px 0px 1px -1px #ededed;
 }
@@ -106,7 +108,8 @@ a:hover{
 	margin:0px 10px;
 	color:#fff;
 	border:none;
-	background-color: #666;
+	/*background-color: #666;*/
+	background: url(img/p-9-7.png) repeat-x;
 	line-height: 16px;
 	margin-top:6px;
 }
@@ -124,7 +127,6 @@ a:hover{
 	margin:0px 62px;
 	float: left;
 }
-	
 .top-bar-top{
 	width:500px;
 	height:70px;
@@ -153,22 +155,37 @@ a:hover{
 }
 .top-bar-center img{
 	width:22px;
-	margin-top: 4px;
+	margin-top: 5px;
 	float: left;
 	margin-left: 6px;
 }
-.top-bar-center-inputl{
-	width:105px;
+.e-downqq{
 	float: left;
-	height:18px;
-	border:1px solid #ededed;
-	margin-right: 10px;
-	margin-top: 4px;
+	width:17px;
+	height:19px;
+	margin-top: 5px;
+	background: url(img/p-9-11.png) repeat-x;
+}
+.triangle-downqq{
+	float: left;
+	position: relative;
+	left: -12px;
+	top: 12px;
+}
+.top-bar-center-inputl{
+	width:90px;
+	float: left;
+	height:17px;
+	outline: medium;
+	color:#d6d6d6;
+	margin-top: 5px;
 	margin-left: 10px;
+	border:1px solid #ddd;
 }
 .top-bar-center-inputr{
 	width:255px;
 	float: left;
+	outline: medium;
 	height:18px;
 	border:1px solid #ededed;
 	margin-right: 10px;
@@ -176,10 +193,12 @@ a:hover{
 }
 .top-bar-center button{
 	width:50px;
-	height:18px;
-	margin-top: 6px;
+	height:19px;
+	margin-top: 4px;
+	color:#fff;
 	border:1px solid #ededed;
-	background-color: #646464;
+	/*background-color: #646464;*/
+	background: url(img/p-9-10.png) repeat-x;
 	float: left;
 }
 .top-bar-bottom{
@@ -269,7 +288,8 @@ a:hover{
 	height:30px;
 	line-height: 30px;
 	margin:0px auto;
-	background-color: #7d8389;
+	/*background-color: #7d8389;*/
+	background: url(img/p-9-8.png) repeat-x;
 }
 .top-nownav-lcb a{
 	color:#fff;
@@ -325,7 +345,8 @@ a:hover{
 	height:30px;
 	line-height: 30px;
 	margin:0px auto;
-	background-color: #7d8389;
+	/*background-color: #7d8389;*/
+	background: url(img/p-9-8.png) repeat-x;
 }
 .top-nownav-rcb a{
 	color:#fff;
@@ -475,7 +496,8 @@ a:hover{
 	padding-left: 4px;
 	color:#a9a9aa;
 	float: left;
-	background-color: #dedcde;
+	/*background-color: #dedcde;*/
+	background: url(img/p-9-9.png) repeat-x;
 }
 .content-bottom-btb p{
 	color:#a9a9aa;
@@ -607,7 +629,8 @@ a:hover{
 .content-img-c button{
 	height:30px;
 	width:100px;
-	background-color: #848b90;
+	/*background-color: #848b90;*/
+	background: url(img/p-9-8.png) repeat-x;
 	color:#eeefef;
 	font-weight: bolder;
 	font-size: 20px;
@@ -780,4 +803,77 @@ a:hover{
 }
 .foot-center p a{
 	color:#fff;
+}
+.footer .w1000{
+	height:158px;
+}
+.footer-center{
+	width:710px;
+	height:158px;
+	margin:0px auto;
+}
+.footer-center-t{
+	height:32px;
+	width:480px;
+	margin:0px auto;
+	margin-top: 20px;
+	text-align: center;	
+}
+.footer-center-t p{
+	float: left;
+	font-size: 12px;
+	color:#000;
+	line-height: 32px;
+}
+.footer-center-t img{
+	float: left;
+	width:28px;
+}
+.footer-center-c{
+	height:40px;
+	width:640px;
+	margin:0px auto;
+	margin-bottom: 10px;
+}
+.footer-center-c p{
+	font-size: 14px;
+	margin-right: 10px;
+	float: left;
+	line-height: 40px;
+}
+.footer-center-c p a{
+	color:#000;
+}
+.footer-center-b{
+	height:76px;
+	width:710px;
+}
+.footer-center-bl{
+	float: left;
+	width:120px;
+	height:50px;
+	border:1px solid #666;
+	margin:12px 10px;
+	background-color: #fff;
+}
+.footer-center-bl img{
+	width:48px;
+	float: left;
+	margin-top: 1px;
+}
+.footer-center-bl p{
+	float: left;
+	width:72px;
+	height:50px;
+	line-height: 25px;
+	color:#666;
+	font-size: 14px;
+	text-align: center;
+}
+button,
+img,
+.content-top-bottom-rl,
+.top-bar-img,
+.triangle-right:hover{
+	cursor: pointer;
 }
