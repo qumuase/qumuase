@@ -351,6 +351,12 @@ a:hover{
 	border:1px solid #dae2cf;
 	margin: 4px 0px 0px 1px;
 }
+.center-bottom-left  p{
+	text-align: center;
+	width:200px;
+	height:40px;
+	line-height: 30px;
+}
 .footer{
 	height:46px;
 	width:100%;
@@ -369,7 +375,11 @@ a:hover{
 	color:#666;
 	margin-left: 100px;
 }
-
+.top-logo-l img,
+.top-logo-rb button,
+.center-bottom-left img{
+	cursor: pointer;
+}
 
 
 
