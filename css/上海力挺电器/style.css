@@ -223,13 +223,152 @@ a:hover{
 	float: right;
 	margin-top: 6px;
 }
-
-
-
-
-
-
-
+.content-center-b{
+	width:425px;
+	height:260px;
+}
+.content-center-bt{
+	width:425px;
+	margin-top: 2px;
+}
+.content-center-b img{
+	width:180px;
+	margin-right: 250px;
+}
+.content-center-b p{
+	text-align: left;
+	text-indent: 20px;
+	line-height: 23px;
+}
+.content-right{
+	width:248px;
+	float: left; 
+	height:290px;
+	border:1px solid #ededed;
+	border-radius: 4px;
+}
+.content-right-t{
+	height: 43px;
+	width: 230px;
+	margin: 0px auto;
+	background: url(img/p-1-5.jpg) repeat-x; 	
+}
+.content-right-tl{
+	height:43px;
+	line-height: 53px;
+	margin-left: 10px;
+	color:#f00;
+	font-size: 16px;
+	float: left;
+	font-weight: bolder;
+}
+.content-right-tr{
+	height:43px;
+	line-height: 53px;
+	margin-left: 40px;
+	color:#666;
+	float: left;
+	font-size: 14px;
+}
+.content-right-c{
+	height:165px;
+	width:180px;
+	margin:0px auto;
+}
+.content-right-c p{
+	line-height: 28px;
+	color:#666;
+	text-align: left;
+	margin-left: 10px;
+}
+.content-right-b{
+	width:180px;
+	height:89px;
+}
+.content-right-b img{
+	width:180px;
+	margin-left: 30px;
+}
+.center .w1000{
+	height:260px;
+	width:998px;
+	margin-top: 10px;
+	border:1px solid #ededed;
+	border-radius: 4px;
+}
+.center-content{
+	height:43px;
+	width:1000px;
+}
+.center-content-l{
+	height:43px;
+	float: left;
+	width:305px;
+	margin-left: 10px;
+	background:url(img/p-1-5.jpg) repeat-x; 
+}
+.center-content-ll{
+	height:43px;
+	line-height: 43px;
+	float: left;
+	font-weight: bolder;
+	font-size: 20px;
+	color:#f00;
+	margin-left: 20px;
+}
+.center-content-lr{
+	height:43px;
+	line-height: 53px;
+	float: left;
+	font-size: 14px;
+	color:#666;
+	margin-left: 25px;
+}
+.center-content-r{
+	height:43px;
+	width:100px;
+	float: right;
+}
+.center-content-r img{
+	width:14px;
+	float: left;
+	margin-top: 20px;
+	margin-left: 10px;
+}
+.center-bottom{
+	height: 215px;
+	width:1000px;
+}
+.center-bottom-left{
+	background-color: #ebf2e1;
+	width:215px;
+	height: 190px;
+	float: left;
+	margin:10px 17px;
+}
+.center-bottom-left img{
+	width:200px;
+	border:1px solid #dae2cf;
+	margin: 4px 0px 0px 1px;
+}
+.footer{
+	height:46px;
+	width:100%;
+	margin-top: 20px;
+	background-color: #82b73b;
+}
+.footer-center{
+	height: 46px;
+	width:600px;
+	margin:0px auto;
+}
+.footer-center p{
+	height: 46px;
+	float: left;
+	line-height: 46px;
+	color:#666;
+	margin-left: 100px;
+}
 
 
 
