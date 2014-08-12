@@ -91,10 +91,7 @@ a:hover{
 .top-header{
 	position: relative;
 	top:-540px;
-	/*position: absolute;
-	width:990px;
-	top: 90px;
-	left:50%;*/
+	height:0px;
 }
 .top-content-left{
 	width:150px;
