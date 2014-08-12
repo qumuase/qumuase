@@ -1,0 +1,31 @@
+/*reset*/
+*{
+	padding:0px;
+	margin:0px;
+}
+body{
+	font:13px/1.5 Verdana,"Microsoft YaHei","微软雅黑",tahoma,arial,simsun,"宋体";
+	background-color: #0d0d0d;
+}
+ul,li{
+	list-style: none;
+}
+a{
+	color:#878686;
+	text-decoration:none;
+}
+p{
+	color:#878686;
+}
+a:hover{
+	color:#f00;
+	text-decoration: underline;
+}
+/*bese*/
+.w1000{
+	width:777px;
+	background-color: #1c1d1c;
+	margin:0px auto;
+	text-align: center;
+}
+/*common*/

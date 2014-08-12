@@ -11,11 +11,11 @@ ul,li{
 	list-style: none;
 }
 a{
-	color:#f00;
-	text-decoration: none;
+	color:#fff;
+	/*text-decoration: none;*/
 }
 p{
-	color:#666;
+	color:#4f4e4e;
 }
 a:hover{
 	color:#f00;
