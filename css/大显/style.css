@@ -224,7 +224,7 @@ a:hover{
 	font-weight: bolder;
 }
 .summary{
-	height:560px;
+	height:580px;
 }
 .summary-left{
 	width:200px;
@@ -322,7 +322,7 @@ a:hover{
 }
 .summary-right-bottom{
 	margin-top: 20px;
-	height:365px;
+	height:385px;
 	border: 1px solid #dedede;
 	border-bottom: none;
 }
