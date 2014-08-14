@@ -104,6 +104,14 @@ ul.thumb li:nth-child(5) {
     transform: rotate(-20deg);
     -webkit-filter: blur(1px);
 }
+ul.thumb li:nth-child(6) {
+    margin-top: -60px;
+    margin-left: 90px;
+    -moz-transform: rotate(-10deg);
+    -webkit-transform: rotate(-10deg);
+    transform: rotate(-10deg);
+    -webkit-filter: blur(1px);
+}
 /* here is how the LI element should look
    at the end of the transition which
    will be activated on hover special selector

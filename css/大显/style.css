@@ -138,7 +138,8 @@ a:hover{
 }
 .top-bar{
 	height:59px;
-	width:100%;
+	margin-left: 20px;
+	margin-right: 13px;
 	background: url(img/p-1-5.jpg) repeat-x;
 	border-top:1px solid #666;
 	border-bottom:1px solid #666;
@@ -308,7 +309,7 @@ a:hover{
 .summary-left-buttom-b p a{
 	color:#f00;
 }
-.summary-left-buttom-b p span{
+.summary-left-buttom-b p span{ 
 	font-weight: bolder;
 	width:100px;
 }
@@ -378,14 +379,60 @@ a:hover{
 	font-size: 22px;
 	color:#d65754;
 }
-
-
-
-
-
-
-
-
+.footer{
+	height:28px;
+	/*width:97%;*/
+	border:1px solid #dcdcdc;
+	background-color: #ebebeb;
+	margin-left: 20px;
+	margin-right: 13px;
+	margin-top: 10px;
+}
+.footer-left{
+	width:300px;
+	margin-left: 10px;
+}
+.footer-left p{
+	float: left;
+	line-height: 30px;
+	margin-left: 10px;
+	color:#000;
+}
+.footer-right{
+	width:183px;
+	margin-right: 20px;
+	float: right;
+	overflow: hidden;
+}
+.footer-right p{
+	width:57px;
+	float: left;
+	height:16px;
+	margin-top: 8px;
+	line-height: 16px;
+	border-right:1px solid #000;
+	margin-right: -1px;
+	margin-left: 4px;
+}
+.footer-right p a{
+	color:#000;
+}
+.foot{
+	height:40px;
+}
+.foot p{
+	color:#000;
+	width:400px;
+	height:40px;
+	line-height: 30px;
+	float: left;
+	margin-left: -270px;
+}
+img,
+button,
+.triangle-buttom{
+	cursor: pointer;
+}
 
 
 
