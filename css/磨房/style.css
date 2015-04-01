@@ -478,3 +478,28 @@
 .mm{
 	background: url(img/bottom_phone.gif) no-repeat 0px center;
 }
+#toTop{
+	background: url(img/gotop.gif) no-repeat -52px 0px;
+	width:52px;
+	height:52px;
+	display: block;
+	position: fixed;
+ 	right: 93px;
+  	top: 175px;
+}
+#feedback{
+	background: url(img/gotop.gif) no-repeat -52px 0px;
+	background-position: -52px -53px;
+	width:52px;
+	height:52px;
+	display: block;
+	position: fixed;
+	right: 93px;
+  	top: 235px;
+}
+#toTop:hover{
+	background-position: 0 0;
+}
+#feedback:hover{
+	background-position: 0 -53px;
+}

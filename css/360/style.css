@@ -223,6 +223,7 @@ body{
 	float:right;
 	margin:10px 0px;
 	border-radius: 4px;
+	background-color: #eee;
 
 }
 .photo{
@@ -341,6 +342,7 @@ body{
 	border:1px solid #666;
 	border-radius:4px;
 	color:#666;
+	background-color: #eee;
 }
 .foot{
 	color:#666;

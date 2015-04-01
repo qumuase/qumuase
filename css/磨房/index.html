@@ -4,6 +4,7 @@
 		<meta charset="UTF-8">
 		<title>磨房、自助旅游和户外运动的出发地</title>
 		<link rel="stylesheet" href="style.css">
+		<script type="text/javascript" src="jquery.js"></script>
 	</head>
 	<body>
 		<div class="all">
@@ -429,6 +430,22 @@
 					<img src="img/govIcon.gif">
 					<div class="clear"></div>
 				</div>
+				<a href="javascript:scroll(0,0)" tlte="回到顶部" id="toTop"></a>
+				<a href="#" title="意见反馈" id="feedback"></a>
+				<script type="text/javascript">
+					$(function() {
+					$(window).scroll(function() {
+						if($(this).scrollTop() != 0) {
+						$('#toTop').fadeIn();
+					} else {
+						$('#toTop').fadeOut();
+						}
+					});
+					$('#toTop').click(function() {
+					$('body,html').animate({scrollTop:0},500);
+						});
+					});
+			 	</script>
 			</div>
 		</div>
 	</body>

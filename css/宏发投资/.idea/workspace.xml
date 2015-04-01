@@ -32,28 +32,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index-2.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index-2.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../传悦科技/index-2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="215" column="31" selection-start="5252" selection-end="5252" vertical-scroll-proportion="0.0" vertical-offset="3870" max-vertical-offset="4212">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index-7.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../传悦科技/index-7.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="68" column="34" selection-start="1830" selection-end="1830" vertical-scroll-proportion="0.0" vertical-offset="1224" max-vertical-offset="4122">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style-7.css" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../传悦科技/style-7.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="205" column="17" selection-start="3096" selection-end="3096" vertical-scroll-proportion="0.0" vertical-offset="3690" max-vertical-offset="6462">
+            <state line="215" column="31" selection-start="5252" selection-end="5252" vertical-scroll-proportion="0.36431226" vertical-offset="3674" max-vertical-offset="4212">
               <folding />
             </state>
           </provider>
@@ -105,7 +87,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -116,11 +97,12 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../传悦科技/style-7.css" />
+    <property name="last_opened_file_path" value="D:/" />
     <property name="FullScreen" value="false" />
   </component>
   <component name="RunManager">
@@ -137,13 +119,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="0" width="1360" height="728" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13913691" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -170,6 +152,34 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../传悦科技/style-2.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="15" selection-start="328" selection-end="328" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4482">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../传悦科技/index-2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="215" column="31" selection-start="5252" selection-end="5252" vertical-scroll-proportion="0.0" vertical-offset="3870" max-vertical-offset="4212">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../传悦科技/index-7.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="68" column="34" selection-start="1830" selection-end="1830" vertical-scroll-proportion="0.0" vertical-offset="1224" max-vertical-offset="4122">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../传悦科技/style-7.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="205" column="17" selection-start="3096" selection-end="3096" vertical-scroll-proportion="0.0" vertical-offset="3690" max-vertical-offset="6462">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../传悦科技/style-2.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="25" column="15" selection-start="328" selection-end="328" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4482">
@@ -229,13 +239,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../传悦科技/index-2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="215" column="31" selection-start="5252" selection-end="5252" vertical-scroll-proportion="0.0" vertical-offset="3870" max-vertical-offset="4212">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../传悦科技/index-7.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="68" column="34" selection-start="1830" selection-end="1830" vertical-scroll-proportion="0.0" vertical-offset="1224" max-vertical-offset="4122">
@@ -246,6 +249,13 @@
     <entry file="file://$PROJECT_DIR$/../传悦科技/style-7.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="205" column="17" selection-start="3096" selection-end="3096" vertical-scroll-proportion="0.0" vertical-offset="3690" max-vertical-offset="6462">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../传悦科技/index-2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="215" column="31" selection-start="5252" selection-end="5252" vertical-scroll-proportion="0.36431226" vertical-offset="3674" max-vertical-offset="4212">
           <folding />
         </state>
       </provider>
