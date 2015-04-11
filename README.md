@@ -3,6 +3,6 @@ qumuase.github.io
 
 ##
 
-### 测试练习部分 ###
+### 练习内容 ###
 
- - 主要内容为html+css
+ - 主要为html+css页面
